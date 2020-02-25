@@ -36,3 +36,7 @@ summary(cars)
 plot(pressure)
 ```
 
+## Slide with block
+
+### My Block
+
